@@ -25,6 +25,13 @@ DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
+# Adobe
+DOMAIN-KEYWORD,adobe
+DOMAIN-SUFFIX,adobe.
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,*.adobe.io
+DOMAIN-SUFFIX,adobestats.io
 
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn
